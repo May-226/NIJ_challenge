@@ -4,3 +4,9 @@ This is the source code from MNLB group (3rd position winner) on 2021 NIJ recidi
 ## Data
 The /data repository includes the description of external resources which can be found at: https://census.georgia.gov/census-data, and the training and test dataset can be accessed at NIJ challenge website: https://data.ojp.usdoj.gov/Corrections/NIJ-s-Recidivism-Challenge-Test-Dataset2/pkdv-cwks 
 
+## Run
+After access the data, run 
+'''
+pip install -r requirement.txt
+'''
+and the notebook should be ready to run
