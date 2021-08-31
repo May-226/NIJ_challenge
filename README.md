@@ -6,7 +6,5 @@ The /data repository includes the description of external resources which can be
 
 ## Run
 After access the data, run 
-'''
-pip install -r requirement.txt
-'''
+'pip install -r requirement.txt'
 and the notebook should be ready to run
